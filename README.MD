@@ -1,4 +1,4 @@
-## ☕ CoffeeNet  - A Rede Social para Quem Ama Conversar e Café
+## ☕ CoffeeOnrain  - A Rede Social para Quem Ama Conversar e Café
 ***
 
 O **CoffeeNet** é uma **rede social** criada para conectar pessoas por meio de discussões envolventes, tópicos em alta e interações reais—assim como uma boa conversa acompanhada de café. Esse projeto foi desenvolvido com foco em **desempenho, escalabilidade** e **experiência do usuário**, utilizando as melhores ferramentas e práticas do ecossistema **Django**. Abaixo são as tecnologias que são utilizados nesse projeto.
