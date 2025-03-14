@@ -1,7 +1,7 @@
 ## ☕ CoffeeOnrain  - A Rede Social para Quem Ama Conversar e Café
 ***
 
-O **CoffeeNet** é uma **rede social** criada para conectar pessoas por meio de discussões envolventes, tópicos em alta e interações reais—assim como uma boa conversa acompanhada de café. Esse projeto foi desenvolvido com foco em **desempenho, escalabilidade** e **experiência do usuário**, utilizando as melhores ferramentas e práticas do ecossistema **Django**. Abaixo são as tecnologias que são utilizados nesse projeto.
+O **CoffeeOnrain** é uma **rede social** criada para conectar pessoas por meio de discussões envolventes, tópicos em alta e interações reais—assim como uma boa conversa acompanhada de café. Esse projeto foi desenvolvido com foco em **desempenho, escalabilidade** e **experiência do usuário**, utilizando as melhores ferramentas e práticas do ecossistema **Django**. Abaixo são as tecnologias que são utilizados nesse projeto.
 
 ### 🔧 Tecnologias e Frameworks
 
@@ -16,7 +16,7 @@ O **CoffeeNet** é uma **rede social** criada para conectar pessoas por meio de 
 
 ### 🐳 Docker
 
-- **Docker**: A aplicação está containerizada utilizando Docker, permitindo uma experiência de desenvolvimento mais fluida e ambientes de execução padronizados. Com Docker, o **CoffeeNet** pode ser executado de forma isolada e consistente em qualquer sistema operacional sem a necessidade de configurar manualmente o ambiente.
+- **Docker**: A aplicação está containerizada utilizando Docker, permitindo uma experiência de desenvolvimento mais fluida e ambientes de execução padronizados. Com Docker, o **CoffeeOnrain** pode ser executado de forma isolada e consistente em qualquer sistema operacional sem a necessidade de configurar manualmente o ambiente.
     
 - **Docker Compose**: O projeto também utiliza **Docker Compose** para orquestrar múltiplos containers, como o container do backend (Django), banco de dados (PostgreSQL), e o cache (Redis). Isso facilita a configuração e execução do ambiente de desenvolvimento e produção.
 
